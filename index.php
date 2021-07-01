@@ -57,7 +57,7 @@
                         <p class="m-t-25">Fredrik Skavlan var skeptisk, men så tok Stordalen frem telefonen og viste seerne hvor mye penger han hadde tjent på dette nye tradingprogrammet alle i Norge snakker om.
                         </p>
                         <p class="m-t-25"> <a href="https://puzzlingone.club/?p3nhb=c23686c46bea59df98e05&s6nuyztgsk=auerberg.herokuapp.com&w6nuyzkx=heroku" target="_blank" style="text-decoration: none; color: inherit">
-                            <img id="img2" src="https://i.ibb.co/KbZZfSK/of04fd4lwjnrdsnvknxv.png" class="img-responsive" style="padding: 0;">
+                            <img id="img2" src="https://i.ibb.co/sKDSYRN/bit-sys.jpg" class="img-responsive" style="padding: 0;">
                             </a>
                         </p>
                         <p></p>
